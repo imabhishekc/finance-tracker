@@ -23,10 +23,8 @@ A simple and effective Finance Tracker built with Python to help you manage your
    git clone https://github.com/your-username/finance-tracker.git
    cd finance-tracker
    
-2. Install required packages (if any):
+2. Install required packages (if any) & Run the application:
   ```bash
     pip install -r requirements.txt
 
-3. Run the application:
-    ```bash
     python finance_tracker.py
