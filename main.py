@@ -100,8 +100,8 @@ def main():
         if choice == "1":
             add()
         elif choice == "2":
-            start_date = get_date("Enter the start date (dd-mm-yyyy): ")
-            end_date = get_date("Enter the end date (dd-mm-yyyy): ")
+            start_date = get_date("Enter the start date (dd-mm-yy): ")
+            end_date = get_date("Enter the end date (dd-mm-yy): ")
             df = CSV.get_transactions(start_date, end_date)
             if input("Do you want to see a plot? (y/n) ").lower() == "y":
                 plot_transactions(df)
