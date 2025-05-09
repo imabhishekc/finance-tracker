@@ -1,2 +1,41 @@
 date,amount,category,description
 09-05-25,4000.0,Income,Shares selling
+08-05-25,120.0,Expense,Groceries - Woolworths
+08-05-25,60.0,Expense,Transport - Fuel refill
+07-05-25,200.0,Expense,Entertainment - Concert tickets
+07-05-25,45.0,Expense,Food - Cafe lunch
+06-05-25,3000.0,Income,Salary
+06-05-25,250.0,Expense,Bills - Electricity
+06-05-25,75.0,Expense,Health - Gym membership
+05-05-25,150.0,Expense,Groceries - Coles
+05-05-25,90.0,Expense,Transport - Train pass
+04-05-25,200.0,Expense,Shopping - New shoes
+04-05-25,50.0,Expense,Food - Dinner takeaway
+03-05-25,500.0,Income,Freelance project
+03-05-25,40.0,Expense,Transport - Taxi ride
+03-05-25,80.0,Expense,Entertainment - Netflix subscription
+02-05-25,60.0,Expense,Bills - Phone recharge
+02-05-25,30.0,Expense,Health - Pharmacy
+01-05-25,100.0,Expense,Groceries - Aldi
+01-05-25,20.0,Expense,Food - Coffee
+30-04-25,2800.0,Income,Salary
+30-04-25,150.0,Expense,Transport - Car maintenance
+30-04-25,200.0,Expense,Bills - Internet
+29-04-25,500.0,Expense,Shopping - Clothes
+29-04-25,60.0,Expense,Entertainment - Movie
+28-04-25,25.0,Expense,Food - Snacks
+28-04-25,80.0,Expense,Health - Dentist visit
+27-04-25,150.0,Income,Stock dividend
+27-04-25,70.0,Expense,Transport - Parking
+26-04-25,100.0,Expense,Bills - Water
+25-04-25,400.0,Expense,Shopping - Phone accessories
+25-04-25,40.0,Expense,Food - Fast food
+24-04-25,1000.0,Income,Freelance contract
+24-04-25,90.0,Expense,Groceries - Farmers market
+23-04-25,20.0,Expense,Entertainment - Spotify0
+23-04-25,30.0,Expense,Food - Lunch
+22-04-25,120.0,Expense,Transport - Taxi
+21-04-25,200.0,Expense,Savings - Emergency fund
+20-04-25,300.0,Income,Item sold online
+20-04-25,60.0,Expense,Bills - Gas
+19-04-25,50.0,Expense,Food - Breakfast cafe
